@@ -1,0 +1,13 @@
+
+ Liste des options :										   
+ -V - Verroulier un compte utilisateur
+ -d - Deverroulier un compte utilisateur 
+ -M - Modifier le reportoire personnel de l'utilisateur et copier le contenu de son ancien répertoire vers le nouveau		
+
+                        									   
+ -g - Afficher un menu graphique                                                                  
+                                                                                                  
+ -m - Afficher un menu textuel 								    												   
+												   
+ -h -Afficher ce message de Help								   
+
